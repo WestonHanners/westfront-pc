@@ -12,7 +12,9 @@ This is written in Powerbasic
 
 Below is the original README file.
 
---
+---
+
+README.NOW
 
 The main source file for Westfront PC is: WFTST.BAS
 
